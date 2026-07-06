@@ -25,6 +25,11 @@ header {
     margin-bottom: 56px;
 }
 
+h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
 
 .conteudo {
     display: grid;
